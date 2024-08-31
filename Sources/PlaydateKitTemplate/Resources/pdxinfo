@@ -1,5 +1,5 @@
-name=PlaydateKit Template
-author=Finn Voorhees
+name=pdk-exc-bad-access
+author=Finn Voorhees, @tyetrask, Paul Straw
 description=An example Playdate game built using PlaydateKit
-bundleID=com.finnvoorhees.PlaydateKitTemplate
+bundleID=com.paulstraw.pdk-exc-bad-access
 imagePath=
